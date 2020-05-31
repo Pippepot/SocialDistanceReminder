@@ -1,0 +1,15 @@
+C:\Users\philip\Desktop\Scripting\C#\FrightenedError\FrightenedError\bin\Debug\FrightenedError.exe.config
+C:\Users\philip\Desktop\Scripting\C#\FrightenedError\FrightenedError\bin\Debug\FrightenedError.exe
+C:\Users\philip\Desktop\Scripting\C#\FrightenedError\FrightenedError\bin\Debug\FrightenedError.pdb
+C:\Users\philip\Desktop\Scripting\C#\FrightenedError\FrightenedError\obj\Debug\FrightenedError.csprojAssemblyReference.cache
+C:\Users\philip\Desktop\Scripting\C#\FrightenedError\FrightenedError\obj\Debug\MainWindow.g.cs
+C:\Users\philip\Desktop\Scripting\C#\FrightenedError\FrightenedError\obj\Debug\App.g.cs
+C:\Users\philip\Desktop\Scripting\C#\FrightenedError\FrightenedError\obj\Debug\FrightenedError_MarkupCompile.cache
+C:\Users\philip\Desktop\Scripting\C#\FrightenedError\FrightenedError\obj\Debug\FrightenedError_MarkupCompile.lref
+C:\Users\philip\Desktop\Scripting\C#\FrightenedError\FrightenedError\obj\Debug\MainWindow.baml
+C:\Users\philip\Desktop\Scripting\C#\FrightenedError\FrightenedError\obj\Debug\FrightenedError.g.resources
+C:\Users\philip\Desktop\Scripting\C#\FrightenedError\FrightenedError\obj\Debug\FrightenedError.Properties.Resources.resources
+C:\Users\philip\Desktop\Scripting\C#\FrightenedError\FrightenedError\obj\Debug\FrightenedError.csproj.GenerateResource.cache
+C:\Users\philip\Desktop\Scripting\C#\FrightenedError\FrightenedError\obj\Debug\FrightenedError.csproj.CoreCompileInputs.cache
+C:\Users\philip\Desktop\Scripting\C#\FrightenedError\FrightenedError\obj\Debug\FrightenedError.exe
+C:\Users\philip\Desktop\Scripting\C#\FrightenedError\FrightenedError\obj\Debug\FrightenedError.pdb

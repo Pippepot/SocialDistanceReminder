@@ -1,0 +1,16 @@
+C:\Users\philip\Desktop\Scripting\C#\SocialDistanceReminder\FrightenedError\bin\Debug\FrightenedError.exe.config
+C:\Users\philip\Desktop\Scripting\C#\SocialDistanceReminder\FrightenedError\bin\Debug\FrightenedError.exe
+C:\Users\philip\Desktop\Scripting\C#\SocialDistanceReminder\FrightenedError\bin\Debug\FrightenedError.pdb
+C:\Users\philip\Desktop\Scripting\C#\SocialDistanceReminder\FrightenedError\obj\Debug\SocialDistanceReminder.csprojAssemblyReference.cache
+C:\Users\philip\Desktop\Scripting\C#\SocialDistanceReminder\FrightenedError\obj\Debug\MainWindow.g.cs
+C:\Users\philip\Desktop\Scripting\C#\SocialDistanceReminder\FrightenedError\obj\Debug\App.g.cs
+C:\Users\philip\Desktop\Scripting\C#\SocialDistanceReminder\FrightenedError\obj\Debug\FrightenedError_MarkupCompile.cache
+C:\Users\philip\Desktop\Scripting\C#\SocialDistanceReminder\FrightenedError\obj\Debug\FrightenedError_MarkupCompile.lref
+C:\Users\philip\Desktop\Scripting\C#\SocialDistanceReminder\FrightenedError\obj\Debug\App.baml
+C:\Users\philip\Desktop\Scripting\C#\SocialDistanceReminder\FrightenedError\obj\Debug\MainWindow.baml
+C:\Users\philip\Desktop\Scripting\C#\SocialDistanceReminder\FrightenedError\obj\Debug\FrightenedError.g.resources
+C:\Users\philip\Desktop\Scripting\C#\SocialDistanceReminder\FrightenedError\obj\Debug\FrightenedError.Properties.Resources.resources
+C:\Users\philip\Desktop\Scripting\C#\SocialDistanceReminder\FrightenedError\obj\Debug\SocialDistanceReminder.csproj.GenerateResource.cache
+C:\Users\philip\Desktop\Scripting\C#\SocialDistanceReminder\FrightenedError\obj\Debug\SocialDistanceReminder.csproj.CoreCompileInputs.cache
+C:\Users\philip\Desktop\Scripting\C#\SocialDistanceReminder\FrightenedError\obj\Debug\FrightenedError.exe
+C:\Users\philip\Desktop\Scripting\C#\SocialDistanceReminder\FrightenedError\obj\Debug\FrightenedError.pdb

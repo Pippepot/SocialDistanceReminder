@@ -1,0 +1,17 @@
+﻿<Window x:Class="CoronaCaution.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CoronaCaution"
+        mc:Ignorable="d"
+        WindowStyle="None"
+        Title="MainWindow" Height="133" Width="352" ResizeMode="NoResize">
+    <Grid>
+        <Image HorizontalAlignment="Left" Height="133" VerticalAlignment="Top" Width="352" Source="Windows10Error.PNG" Stretch="None" Margin="0,0,0,0"/>
+        <TextBlock Text="Corona caution" TextOptions.TextRenderingMode="Aliased" Margin="4,4,0,106" Style="{StaticResource ResourceKey=micross}" FontFamily="./#Microsoft Sans Serif" SnapsToDevicePixels="True" HorizontalAlignment="Left" VerticalAlignment="Center" Height="23" Width="271" Foreground="#FF999999"/>
+        <TextBlock Text="Be sure to practice social distancing" TextOptions.TextRenderingMode="Aliased" Margin="48,42,0,44" Style="{StaticResource ResourceKey=micross}" FontFamily="./#Microsoft Sans Serif" SnapsToDevicePixels="True" HorizontalAlignment="Left" VerticalAlignment="Center" Height="47" Width="271" TextWrapping="Wrap" Initialized="Text_Initialized"/>
+        <Image HorizontalAlignment="Left" Height="21" Margin="274,101,0,0" VerticalAlignment="Top" Width="66" Source="OKDefault.png" MouseEnter="Image_MouseEnter" MouseLeave="Image_MouseLeave" MouseDown="Image_MouseDown"/>
+        <Image HorizontalAlignment="Left" Height="32" Margin="11,42,0,0" VerticalAlignment="Top" Width="32" Source="WindowsInfo.png" Initialized="Icon_Initialized"/>
+    </Grid>
+</Window>

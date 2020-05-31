@@ -1,0 +1,11 @@
+﻿<Application x:Class="CoronaCaution.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:CoronaCaution"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Style x:Key="micross">
+            <Setter Property="TextElement.FontFamily" Value="fonts/micross #micross"/>
+        </Style>
+    </Application.Resources>
+</Application>
